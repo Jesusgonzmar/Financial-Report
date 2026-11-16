@@ -1,6 +1,6 @@
 # Volatility Modelling and Risk Management of Amazon (AMZN) Returns
 
-[![CI](https://github.com/<username>/amzn-volatility-risk/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/amzn-volatility-risk/actions/workflows/ci.yml)
+[![CI](https://github.com/Jesusgonzmar/amzn-volatility-risk/actions/workflows/ci.yml/badge.svg)](https://github.com/Jesusgonzmar/amzn-volatility-risk/actions/workflows/ci.yml)
 ![R](https://img.shields.io/badge/R-%E2%89%A5%204.1-276DC3)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -56,7 +56,7 @@ The full write-up is in [`report/main.tex`](report/main.tex) (compiled by CI as 
 **Requirements:** R ≥ 4.1 and a LaTeX distribution with `latexmk` (TeX Live or MiKTeX).
 
 ```bash
-git clone https://github.com/<username>/amzn-volatility-risk.git
+git clone https://github.com/Jesusgonzmar/amzn-volatility-risk.git
 cd amzn-volatility-risk
 
 make install    # install the R packages
