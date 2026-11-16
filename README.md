@@ -1,6 +1,6 @@
 # Volatility Modelling and Risk Management of Amazon (AMZN) Returns
 
-[![CI](https://github.com/Jesusgonzmar/amzn-volatility-risk/actions/workflows/ci.yml/badge.svg)](https://github.com/Jesusgonzmar/amzn-volatility-risk/actions/workflows/ci.yml)
+[![CI](https://github.com/Jesusgonzmar/Financial-Report/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jesusgonzmar/Financial-Report/actions/workflows/ci.yml)
 ![R](https://img.shields.io/badge/R-%E2%89%A5%204.1-276DC3)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
